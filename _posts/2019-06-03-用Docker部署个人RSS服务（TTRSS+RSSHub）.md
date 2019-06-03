@@ -1,7 +1,7 @@
 ---
 title: 用Docker部署个人RSS服务（TTRSS+RSSHub）
 key: 2019-06-03-用Docker部署个人RSS服务（TTRSS+RSSHub）
-tags: RSS, Docker, Nginx
+tags: RSS Docker Nginx
 
 ---
 
