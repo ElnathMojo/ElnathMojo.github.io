@@ -23,7 +23,7 @@ $ sudo apt install docker-compose
 
 再参照[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/master/docker-compose.yml)及[RSSHub](https://github.com/DIYgod/RSSHub/blob/master/docker-compose.yml)写一个自己的docker-compose.yml。
 
-```yaml docker-compose.yml
+```yaml
 version: '3'
 
 services:
