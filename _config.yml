@@ -151,8 +151,8 @@ pageview:
 
   ## Leancloud
   leancloud:
-    app_id    : jvXRE2NY8kv3Mb2uJ7QElHsn-gzGzoHsz # LeanCloud App id
-    app_key   : 3Yaj4gVuvSrjhG6bhGJMgCcW # LeanCloud App key
+    app_id    : 4qSi7EiDQU7pPLGLF5DI26zK-MdYXbMMI # LeanCloud App id
+    app_key   : FGvvXmDVwUB79OmpAFHELcSg # LeanCloud App key
     app_class : spaceship # LeanCloud App class
 
 
